@@ -78,9 +78,10 @@
 
 # 🏆 GitHub Trophies
 
+
 <div align="center">
 
-<img src="./assets/trophies.svg?v=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Reshmasudeepa&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 
 </div>
 
