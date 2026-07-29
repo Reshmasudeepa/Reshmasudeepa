@@ -1,0 +1,158 @@
+<svg width="940" height="200" viewBox="0 0 940 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0e2e"/>
+      <stop offset="100%" stop-color="#170a24"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff5fd8"/>
+      <stop offset="50%" stop-color="#b26bff"/>
+      <stop offset="100%" stop-color="#5fc9ff"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="0" y="0" width="940" height="200" rx="16"/></clipPath>
+    
+    <clipPath id="trophyClip0"><path d="M-34,-52 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z"/></clipPath>
+    <linearGradient id="trophyGrad0" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff5fd8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#160a24"/>
+    </linearGradient>
+    <clipPath id="trophyClip1"><path d="M-34,-52 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z"/></clipPath>
+    <linearGradient id="trophyGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd166" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#160a24"/>
+    </linearGradient>
+    <clipPath id="trophyClip2"><path d="M-34,-52 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z"/></clipPath>
+    <linearGradient id="trophyGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7fe0ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#160a24"/>
+    </linearGradient>
+    <clipPath id="trophyClip3"><path d="M-34,-52 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z"/></clipPath>
+    <linearGradient id="trophyGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b26bff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#160a24"/>
+    </linearGradient>
+    <clipPath id="trophyClip4"><path d="M-34,-52 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z"/></clipPath>
+    <linearGradient id="trophyGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5fd88a" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#160a24"/>
+    </linearGradient>
+    <clipPath id="trophyClip5"><path d="M-34,-52 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z"/></clipPath>
+    <linearGradient id="trophyGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff8f5f" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#160a24"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="940" height="200" fill="url(#bgGrad)"/>
+    <rect x="1" y="1" width="938" height="198" rx="15" fill="none" stroke="url(#ringGrad)" stroke-width="1.4" opacity="0.6"/>
+    
+  <g transform="translate(78.33333333333333,110)">
+   <g transform="scale(0)">
+    <animateTransform attributeName="transform" type="scale" from="0" to="1" begin="0.30s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.34 1.4 0.4 1"/>
+    <g clip-path="url(#trophyClip0)">
+      <path d="M-34,-46 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z" fill="url(#trophyGrad0)" stroke="#ff5fd8" stroke-width="2"/>
+      <rect x="-46" y="-52" width="16" height="10" rx="4" fill="#ff5fd8"/>
+      <rect x="30" y="-52" width="16" height="10" rx="4" fill="#ff5fd8"/>
+      <rect x="-6" y="12" width="12" height="14" fill="#ff5fd8"/>
+      <rect x="-18" y="26" width="36" height="8" rx="3" fill="#ff5fd8"/>
+      <text x="0" y="-16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#1a0e2e">S</text>
+      <rect x="-70" y="-70" width="30" height="140" fill="#ffffff" opacity="0" transform="skewX(-20)">
+        <animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.5;1" begin="0.80s" dur="0.7s" fill="freeze"/>
+        <animate attributeName="x" from="-70" to="70" begin="0.80s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </g>
+   </g>
+    <text x="0" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#cfc3e8">Commits</text>
+  </g>
+  <g transform="translate(235.0,110)">
+   <g transform="scale(0)">
+    <animateTransform attributeName="transform" type="scale" from="0" to="1" begin="0.52s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.34 1.4 0.4 1"/>
+    <g clip-path="url(#trophyClip1)">
+      <path d="M-34,-46 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z" fill="url(#trophyGrad1)" stroke="#ffd166" stroke-width="2"/>
+      <rect x="-46" y="-52" width="16" height="10" rx="4" fill="#ffd166"/>
+      <rect x="30" y="-52" width="16" height="10" rx="4" fill="#ffd166"/>
+      <rect x="-6" y="12" width="12" height="14" fill="#ffd166"/>
+      <rect x="-18" y="26" width="36" height="8" rx="3" fill="#ffd166"/>
+      <text x="0" y="-16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#1a0e2e">A+</text>
+      <rect x="-70" y="-70" width="30" height="140" fill="#ffffff" opacity="0" transform="skewX(-20)">
+        <animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.5;1" begin="1.02s" dur="0.7s" fill="freeze"/>
+        <animate attributeName="x" from="-70" to="70" begin="1.02s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </g>
+   </g>
+    <text x="0" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#cfc3e8">Stars</text>
+  </g>
+  <g transform="translate(391.66666666666663,110)">
+   <g transform="scale(0)">
+    <animateTransform attributeName="transform" type="scale" from="0" to="1" begin="0.74s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.34 1.4 0.4 1"/>
+    <g clip-path="url(#trophyClip2)">
+      <path d="M-34,-46 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z" fill="url(#trophyGrad2)" stroke="#7fe0ff" stroke-width="2"/>
+      <rect x="-46" y="-52" width="16" height="10" rx="4" fill="#7fe0ff"/>
+      <rect x="30" y="-52" width="16" height="10" rx="4" fill="#7fe0ff"/>
+      <rect x="-6" y="12" width="12" height="14" fill="#7fe0ff"/>
+      <rect x="-18" y="26" width="36" height="8" rx="3" fill="#7fe0ff"/>
+      <text x="0" y="-16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#1a0e2e">A</text>
+      <rect x="-70" y="-70" width="30" height="140" fill="#ffffff" opacity="0" transform="skewX(-20)">
+        <animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.5;1" begin="1.24s" dur="0.7s" fill="freeze"/>
+        <animate attributeName="x" from="-70" to="70" begin="1.24s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </g>
+   </g>
+    <text x="0" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#cfc3e8">Followers</text>
+  </g>
+  <g transform="translate(548.3333333333334,110)">
+   <g transform="scale(0)">
+    <animateTransform attributeName="transform" type="scale" from="0" to="1" begin="0.96s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.34 1.4 0.4 1"/>
+    <g clip-path="url(#trophyClip3)">
+      <path d="M-34,-46 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z" fill="url(#trophyGrad3)" stroke="#b26bff" stroke-width="2"/>
+      <rect x="-46" y="-52" width="16" height="10" rx="4" fill="#b26bff"/>
+      <rect x="30" y="-52" width="16" height="10" rx="4" fill="#b26bff"/>
+      <rect x="-6" y="12" width="12" height="14" fill="#b26bff"/>
+      <rect x="-18" y="26" width="36" height="8" rx="3" fill="#b26bff"/>
+      <text x="0" y="-16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#1a0e2e">A+</text>
+      <rect x="-70" y="-70" width="30" height="140" fill="#ffffff" opacity="0" transform="skewX(-20)">
+        <animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.5;1" begin="1.46s" dur="0.7s" fill="freeze"/>
+        <animate attributeName="x" from="-70" to="70" begin="1.46s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </g>
+   </g>
+    <text x="0" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#cfc3e8">PRs</text>
+  </g>
+  <g transform="translate(705.0,110)">
+   <g transform="scale(0)">
+    <animateTransform attributeName="transform" type="scale" from="0" to="1" begin="1.18s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.34 1.4 0.4 1"/>
+    <g clip-path="url(#trophyClip4)">
+      <path d="M-34,-46 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z" fill="url(#trophyGrad4)" stroke="#5fd88a" stroke-width="2"/>
+      <rect x="-46" y="-52" width="16" height="10" rx="4" fill="#5fd88a"/>
+      <rect x="30" y="-52" width="16" height="10" rx="4" fill="#5fd88a"/>
+      <rect x="-6" y="12" width="12" height="14" fill="#5fd88a"/>
+      <rect x="-18" y="26" width="36" height="8" rx="3" fill="#5fd88a"/>
+      <text x="0" y="-16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#1a0e2e">B+</text>
+      <rect x="-70" y="-70" width="30" height="140" fill="#ffffff" opacity="0" transform="skewX(-20)">
+        <animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.5;1" begin="1.68s" dur="0.7s" fill="freeze"/>
+        <animate attributeName="x" from="-70" to="70" begin="1.68s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </g>
+   </g>
+    <text x="0" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#cfc3e8">Issues</text>
+  </g>
+  <g transform="translate(861.6666666666666,110)">
+   <g transform="scale(0)">
+    <animateTransform attributeName="transform" type="scale" from="0" to="1" begin="1.40s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.34 1.4 0.4 1"/>
+    <g clip-path="url(#trophyClip5)">
+      <path d="M-34,-46 h68 v18 c0,26 -14,40 -34,40 c-20,0 -34,-14 -34,-40 Z" fill="url(#trophyGrad5)" stroke="#ff8f5f" stroke-width="2"/>
+      <rect x="-46" y="-52" width="16" height="10" rx="4" fill="#ff8f5f"/>
+      <rect x="30" y="-52" width="16" height="10" rx="4" fill="#ff8f5f"/>
+      <rect x="-6" y="12" width="12" height="14" fill="#ff8f5f"/>
+      <rect x="-18" y="26" width="36" height="8" rx="3" fill="#ff8f5f"/>
+      <text x="0" y="-16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#1a0e2e">A</text>
+      <rect x="-70" y="-70" width="30" height="140" fill="#ffffff" opacity="0" transform="skewX(-20)">
+        <animate attributeName="opacity" values="0;0.55;0" keyTimes="0;0.5;1" begin="1.90s" dur="0.7s" fill="freeze"/>
+        <animate attributeName="x" from="-70" to="70" begin="1.90s" dur="0.7s" fill="freeze"/>
+      </rect>
+    </g>
+   </g>
+    <text x="0" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#cfc3e8">Repos</text>
+  </g>
+  </g>
+</svg>
