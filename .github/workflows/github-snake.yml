@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake
         with:
-          github_user_name: Reshmasudeeepa
+          github_user_name: Reshmasudeepa
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
