@@ -12,9 +12,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Reshmasudeeepa&label=Profile%20Views&color=b26bff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Reshmasudeepa&label=Profile%20Views&color=b26bff&style=flat" />
 
-<img src="https://img.shields.io/github/followers/Reshmasudeeepa?label=Followers&style=flat&color=ff5fd8" />
+<img src="https://img.shields.io/github/followers/Reshmasudeepa?label=Followers&style=flat&color=ff5fd8" />
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-7fe0ff?style=flat" />
 
@@ -103,11 +103,11 @@
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reshmasudeeepa/Reshmasudeeepa/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reshmasudeepa/Reshmasudeepa/output/github-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reshmasudeeepa/Reshmasudeeepa/output/github-snake.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reshmasudeepa/Reshmasudeepa/output/github-snake.svg">
 
-<img src="https://raw.githubusercontent.com/Reshmasudeeepa/Reshmasudeeepa/output/github-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Reshmasudeepa/Reshmasudeepa/output/github-snake.svg" width="100%">
 
 </picture>
 
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reshmasudeeepa&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reshmasudeepa&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -133,7 +133,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmasudeepa-undefined-bb4871393)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshmasudeeepa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshmasudeepa)
 
 </div>
 
