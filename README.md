@@ -6,11 +6,26 @@
   <img src="./assets/banner.svg?v=1" alt="ReshmaSudeepa Banner" width="100%">
 </picture>
 
-<br>
-
-<img src="./assets/lanyard.svg?v=1" width="220" alt="ID Badge">
-
 <br><br>
+
+<table>
+<tr>
+<td align="center" width="240">
+<img src="./assets/lanyard.svg?v=1" width="220" alt="ID Badge">
+</td>
+<td valign="middle">
+
+### 🌐 Portfolio
+[sudeepa.vercel.app](https://sudeepa.vercel.app/)
+
+### 📧 Contact
+[reshmasudeepa1@gmail.com](mailto:reshmasudeepa1@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Reshmasudeepa&label=Profile%20Views&color=b26bff&style=flat" />
 
