@@ -88,13 +88,11 @@ Bhimavaram, Andhra Pradesh, India
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 ---
-
-
 ### 📊 GitHub Stats
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Reshmasudeepa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reshmasudeepa&hide_border=true&background=0d1117&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Reshmasudeepa&hide_border=true&background=0d1117&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" height="165"/>
 </p>
 
 <p>
