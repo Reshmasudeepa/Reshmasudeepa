@@ -88,17 +88,19 @@ Bhimavaram, Andhra Pradesh, India
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 ---
-# 📊 GitHub Stats
 
-<div align="center">
 
-<img src="./assets/stats.svg?v=1" width="48%" />
+### 📊 GitHub Stats
 
-<img src="./assets/langs.svg?v=1" width="48%" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohansiva58&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohansiva58&hide_border=true&background=0d1117&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" height="165"/>
+</p>
 
-</div>
-
----
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansiva58&layout=compact&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" alt="Top languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohansiva58&theme=shadow_green&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
 
 
 # 🏆 GitHub Achievements
