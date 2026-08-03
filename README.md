@@ -92,12 +92,12 @@ Bhimavaram, Andhra Pradesh, India
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Reshmasudeepa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" alt="GitHub stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Reshmasudeepa&hide_border=true&background=0d1117&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Reshmasudeepa&hide_border=true&background=0d1117&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2ea44f&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" height="165"/>
 </p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmasudeepa&layout=compact&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" alt="Top languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Reshmasudeepa&theme=shadow_green&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Reshmasudeepa&theme=matrix&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
 </p>
 
 # 🏆 GitHub Achievements
@@ -157,7 +157,7 @@ Bhimavaram, Andhra Pradesh, India
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshmasudeepa1@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PASTE-YOUR-REAL-LINKEDIN-HANDLE-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmasudeepa-undefined-bb4871393)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshmasudeepa)
 
