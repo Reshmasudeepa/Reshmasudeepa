@@ -10,9 +10,11 @@
 
 <table>
 <tr>
+
 <td align="center" width="240">
 <img src="./assets/lanyard.svg?v=1" width="220" alt="ID Badge">
 </td>
+
 <td valign="middle">
 
 ### 🌐 Portfolio
@@ -21,12 +23,15 @@
 ### 📧 Contact
 [reshmasudeepa1@gmail.com](mailto:reshmasudeepa1@gmail.com)
 
+### 📍 Location
+Bhimavaram, Andhra Pradesh, India
+
 </td>
+
 </tr>
 </table>
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=Reshmasudeepa&label=Profile%20Views&color=b26bff&style=flat" />
 
 <img src="https://img.shields.io/github/followers/Reshmasudeepa?label=Followers&style=flat&color=ff5fd8" />
